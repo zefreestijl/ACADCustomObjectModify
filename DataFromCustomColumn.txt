@@ -1,0 +1,117 @@
+(
+ (-1 . <Entity name: 211ed30d3e0>)
+ (0 . "TCH_COLUMN")
+ (330 . <Entity name: 211d45849f0>)
+ (5 . "AFE")
+ (100 . "AcDbEntity")
+ (67 . 0)
+ (410 . "Model")
+ (8 . "COLUMN")
+ (100 . "TDbEntity")
+ (46 . 0.0)
+ (47 . 100.0)
+ (68 . 0)
+ (100 . "TDbColumn")
+ (11 89014.5 134799.0 0.0)
+ (149 . 3000.0)
+ (70 . 1)
+ (71 . 60)
+ (72 . 0)
+ (10 88230.7 134356.0 0.0)
+ (50 . 0.0)
+ (10 89798.2 134356.0 0.0)
+ (50 . 0.0)
+ (10 89798.2 135241.0 0.0)
+ (50 . 0.0)
+ (10 88230.7 135241.0 0.0)
+ (50 . 0.0)
+ (411 . "PUB_HATCH")
+)
+
+
+  IComColumn: IComColumn Interface
+  Property values:
+    Application (RO) = #<VLA-OBJECT IAcadApplication 00007ff66ce94e60>
+    BottomFace = "无"
+    ColumnHeightH = 884.591
+    ColumnIsHatch = "随按钮"
+    ColumnIsOverThick = "随按钮"
+    ColumnNumber = ""
+    ColumnSumH = -88230.7
+    ColumnThicknessB = -135241.0
+    ColumnThicknessF = 1567.5
+    ColumnThicknessT = 0.0
+    ColumnWidthB = 1567.5
+    ColumnWidthD = 0.0
+    ColumnWidthU = 0.0
+    Deep = 884.591
+    Diameter = 1567.5
+    Document (RO) = #<VLA-OBJECT IAcadDocument 00000211eb4ef978>
+    Elevation = 0.0
+    EntityTransparency = "ByLayer"
+    Handle (RO) = "AFE"
+    HasExtensionDictionary (RO) = 0
+    HatchLayer = "PUB_HATCH"
+    Height = 3000.0
+    HideLabel = "是"
+    Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 00000211b5428708>
+    Insulate = "无"
+    InsulateLayer = "SURFACE"
+    InsulateThick = 80.0
+    Label = ""
+    Layer = "COLUMN"
+    LayoutRotation = 0.0
+    Linetype = "ByLayer"
+    LinetypeScale = 1.0
+    Lineweight = -1
+    Material = "ByLayer"
+    ObjectID (RO) = 45
+    ObjectName (RO) = "TDbColumn"
+    OwnerID (RO) = 43
+    PlotStyleName = "ByLayer"
+    Rotation = 360.0
+    Scale = 100.0
+    SectionArea (RO) = "1.39"
+    SectionPerimeter (RO) = "4.90419"
+    SectionShapeText = "矩形"
+    ShadowType = "投射和接收阴影"
+    SideArea (RO) = "14.7126"
+    SideLength = 1567.5
+    StruDiameter = 1567.5
+    StruElevation = 0.0
+    StruHatchLayer = "PUB_HATCH"
+    StruHeight = 3000.0
+    StruSectionShapeText = "矩形"
+    StruStyle = "钢筋砼"
+    Style = "钢筋砼"
+    TextHeight = "3.5"
+    TextStyle = "_TCH_ASD"
+    TopFace = "无"
+    TrueColor = #<VLA-OBJECT IAcadAcCmColor 00000211b5428d00>
+    Type = "普通柱"
+    Visible = -1
+    Volume (RO) = "4.160"
+    Width = 1567.5
+  Methods supported:
+    ArrayPolar (3)
+    ArrayRectangular (6)
+    Copy ()
+    Delete ()
+    GetBoundingBox (2)
+    GetExtensionDictionary ()
+    GetXData (3)
+    Highlight (1)
+    IntersectWith (2)
+    Mirror (2)
+    Mirror3D (3)
+    Move (2)
+    Rotate (2)
+    Rotate3D (3)
+    ScaleEntity (2)
+    SetXData (2)
+    TransformBy (1)
+    Update ()
+
+
+------------------------ Nested Object: ----------------------------
+
